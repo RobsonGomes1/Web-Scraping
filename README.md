@@ -8,4 +8,3 @@ Obter dados web
 *******************
 
 
-Projeto sendo auxiliado por https://github.com/LucasRibeiroRJBR
